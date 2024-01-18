@@ -1,6 +1,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=60)
-#### Hi there, and welcome to a developer's journey where learning never ends. <br/> My greatest loves in programming are JavaScript and React. Lately, I've found myself intrigued by TypeScript and Next.js, and Flutter has also caught my eye! <br/> Progress may not be swift, but it's steady and consistent. Thank you for visiting my GitHub, where continual growth is the constant theme.
+
+<div align="center">
+  <h3>
+    Hi there, I'm Junior Developer Hyunji. I have mainly worked on web programming, and I am also learning app programming. <br/> My greatest loves in programming are JavaScript and React. Lately, I've found myself intrigued by TypeScript and Next.js, and Flutter has also caught my eye! <br/> Progress may not be swift, but it's steady and consistent. Thank you for visiting my GitHub, where continual growth is the constant theme.
+  </h3>
+</div>
+
+-----------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhyjj&layout=compact)](https://github.com/Jhyjj/github-readme-stats)
 
